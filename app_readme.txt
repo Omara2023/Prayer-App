@@ -9,3 +9,5 @@ sqlite3
 requests
 bs4
 json
+
+To run, load app.py module.
